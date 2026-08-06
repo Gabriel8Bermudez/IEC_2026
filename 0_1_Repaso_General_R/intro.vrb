@@ -1,0 +1,30 @@
+\frametitle{Ejemplo 1 (2)}
+\begin{block}{Veamos porqu\'e}
+	{\footnotesize
+		\begin{verbatim}
+		k<-300000
+		sumando<-1/30
+		str(sumando)
+		suma<-0
+		for (i in 1:k)
+			{
+			suma<-suma+sumando
+			}
+		compara=sumando*k
+		compara==suma
+		[1] FALSE
+		all.equal(compara,suma,tolerance = 1.5e-12)
+		[1] "Mean relative difference: 2.277557e-12"
+		all.equal(compara,suma)
+		[1] TRUE
+		signif(suma,10)
+		round(suma,10)
+		suma-compara
+		\end{verbatim}
+	}
+
+\pause
+Vemos entonces que algo tan sencillo como una suma de t\'{e}rminos constantes se calcula en forma diferente a como lo har\'{i}amos en forma manual, por lo que podemos hacernos una idea de c\'{o}mo ser\'{a} la situaci\'{o}n cuando debamos evaluar integrales, derivadas, determinantes.
+
+\end{block}
+

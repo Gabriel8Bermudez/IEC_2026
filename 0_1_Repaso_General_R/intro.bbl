@@ -1,0 +1,48 @@
+\begin{thebibliography}{}
+
+\bibitem[Arriaga, 1996]{Arriaga1996}
+Arriaga, E. (1996).
+\newblock Los a\~nos de vida perdidos: su utilizaci\'on para medir los niveles y cambios de la mortalidad.
+\newblock {\em Notas de Poblaci\'on}.
+
+\bibitem[Bloomfield, 2014]{Bloomfield2014}
+Bloomfield, V. (2014).
+\newblock {\em Using R for numerical analysis in science and engineering}.
+\newblock CRC Press, Taylor \& Francis Group, Boca Raton.
+
+\bibitem[Jones and Robinson, 2014]{jones2014}
+Jones, R.~and, M.~R. and Robinson, A. (2014).
+\newblock {\em Introduction to Scientific Programming and Simulation Using Centrality:}.
+\newblock The R Series. Taylor \& Francis Group, 2nd edition.
+
+\bibitem[Jorge~Nocedal, 2006]{nocedal2006}
+Jorge~Nocedal, S.~W. (2006).
+\newblock {\em Numerical Optimization}.
+\newblock Springer series in operations research. Springer, 2nd ed edition.
+
+\bibitem[Mathews, 2004]{Mathews2004}
+Mathews, J. (2004).
+\newblock {\em Numerical methods using MATLAB}.
+\newblock Pearson, Upper Saddle River, N.J.
+
+\bibitem[original et~al., 2019]{bootstrap2019}
+original, S., from StatLib, and by~Rob Tibshirani. R port~by Friedrich~Leisch. (2019).
+\newblock {\em bootstrap: Functions for the Book 'An Introduction to the Bootstrap'}.
+\newblock R package version 2019.6.
+
+\bibitem[{R Core Team}, 2022]{Rcoreteam2022}
+{R Core Team} (2022).
+\newblock {\em R: A Language and Environment for Statistical Computing}.
+\newblock R Foundation for Statistical Computing, Vienna, Austria.
+
+\bibitem[Robert, 2010]{robert2010}
+Robert, C. (2010).
+\newblock {\em Introducing Monte Carlo methods with R}.
+\newblock Springer, New York.
+
+\bibitem[Scavino et~al., 2020]{Scavino2020}
+Scavino, M., \'Alvarez-Vaz, R., Massa, F., Freda, L., and Moreno, L. (en edici\'on, 2020).
+\newblock {\em Introducci\'on a la Estad\'istica Computacional, Manual did\'actico de la Comisi\'on Sectorial de Ense\~nanza de la Universidad de la Rep\'ublica}.
+\newblock IESTA, Uruguay, Montevideo.
+
+\end{thebibliography}
